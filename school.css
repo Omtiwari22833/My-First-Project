@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    height: 30px;
+} 
+body {
+    background-image: url(img.jpg);
+    height: 20px;
+    
+} 
+ form{
+    text-align: center;
+ } 
+ A{
+    text-transform: capitalize;
+    background-color: aqua;
+    text-decoration-color: black; 
+    float: left;
+ } 
+ #id100{
+background-color: antiquewhite;
+ } 
+ button{
+    background-color: aqua; 
+
+ } 
+ form{
+    height: 20px;
+ }

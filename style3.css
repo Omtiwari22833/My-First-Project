@@ -1,0 +1,26 @@
+div {
+
+height: 200px;
+width: 200px;
+background-color: aqua; 
+border: 2px solid black; 
+display: inline;
+} 
+#box1{
+position: static;
+
+
+    bottom: 20px;
+}
+#box2{
+position: relative;
+background-color: blue;
+
+} 
+#box3{
+    background-color: aqua;
+    
+} 
+#box4{
+    background-color: chartreuse;
+}

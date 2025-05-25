@@ -1,0 +1,25 @@
+ body{
+    margin: 0;
+    padding: 0;
+ } 
+
+ p{
+    text-align: justify;
+    padding: 20px;
+    display: none;
+ } 
+
+ .a:hover p{
+    background-color: green;
+    display: block;
+ } 
+
+ .b:hover p{
+    background-color: aquamarine;
+    display: block;
+ } 
+
+ .chover button{
+    background-color: blue;
+    display: block;
+ }
